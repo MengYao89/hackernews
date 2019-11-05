@@ -17,14 +17,14 @@ export const StoryWrapper = styled.section`
 
 export const StoryTitle = styled.h1`
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.8;
   margin: 0;
   text-decoration: none;
 
   a {
-    color: #2e2e2c;
-    background-color: #f8dc3d;
+    color: #000000;
+    background-color: #ffffff;
     text-decoration: none;
   }
 `;
