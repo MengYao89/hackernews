@@ -1,6 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Add Redux for state management, build the UI with React and deploy it to the GitHub. 
-Styles will use 'styled-components'(https://www.styled-components.com/), API usage 'axios' (https ://github.com/axios/axios) library call 'Hacker News API'.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+Add Redux for state management, build the UI with React and deploy it to the GitHub. <br />
+Styles will use 'styled-components'(https://www.styled-components.com/)<br />
+API usage 'axios' (https ://github.com/axios/axios) library call 'Hacker News API'.
 
 ## Available Scripts
 
